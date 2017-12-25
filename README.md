@@ -30,4 +30,5 @@ We will just use [Redux Blog Post API](https://reduxblog.herokuapp.com/) as our 
 > npm start
 ```
 
-Live preview can be seen at: https://5ervant.github.io/simple-blogging-application/
+Live preview can be seen at: https://5ervant.github.io/simple-blogging-application/  
+Note: Previewing this kind of application using GitHub Pages have a few problems using React Router.
